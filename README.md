@@ -1,9 +1,8 @@
 # xmrig
 
-warm for winter
-if only power was cheaper
+warm for winter with secret internet money
 
-v6.22.2
+v6.25
 
 ## Build notes:
 ```shell
